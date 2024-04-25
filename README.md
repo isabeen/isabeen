@@ -9,7 +9,7 @@ I'm an **ISTQB® Certified QA Engineer** based in Munich, Germany with 3 years o
 
 
 ### 🌱 More about me  
-- I'm a computer Engineer
+- I'm a Computer Engineer
 - I'm currently working with JavaScript and Playwright for Web Automation
 - Previously, I've worked with Selenium Webdriver with Java
 - I love to ride bikes and be out in nature
