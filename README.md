@@ -1,12 +1,11 @@
 # Hi there! I'm Sabeen 👋
-I'm an **ISTQB® Certified QA Engineer** based in Munich, Germany with 3 years of industry experience. 
+I'm an **ISTQB® Certified QA Engineer** based in Munich, Germany with 3 years of industry experience.
 
 ### 🌱 More about me  
-- I'm a Computer Engineer
-- I'm currently working with JavaScript and Playwright for Web Automation
-- Previously, I've worked with Selenium Webdriver with Java
-- I love to ride bikes and be out in nature
-- I enjoy taking pictures
+- I'm a Computer Engineer passionate about Web Automation
+- Currently, I'm working with JavaScript and Playwright for Web Automation
+- In the past, I've worked with Selenium Webdriver with Java
+- Beyond coding, you'll find me exploring nature on my bike and capturing moments through photography
 
 
 ### Let's connect! 🤝
