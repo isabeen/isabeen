@@ -17,7 +17,7 @@ I'm an **ISTQB® Certified QA Engineer** based in Munich, Germany with 3 years o
 ### Let's connect! 🤝
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Sabeen on LinkedIn"/>](https://www.linkedin.com/in/sabeenjavaid/)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Follow Sabeen on Instagram"/>](https://www.instagram.com/sabeen.mk/)
+
 
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=isabeen.isabeen1&color=00cf00)
